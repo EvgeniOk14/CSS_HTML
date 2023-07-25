@@ -55,6 +55,12 @@ p{
       letter-spacing: 2;
       color: #800000;
       }
+.фото{
+      font-size: 25px;
+      font-family: 'Roboto', sans-serif;
+      color: green;
+}
+
 li{
       font-size: 20px;
       line-height: 2;
