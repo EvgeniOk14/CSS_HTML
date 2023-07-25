@@ -1,0 +1,99 @@
+html{
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFE4B5;
+} 
+@font-face{
+    font-family: 'teddy_bear';
+    src: url("fonts/teddy-bear.ttf");
+}
+
+@font-face{
+    font-family: 'lonely-basket2';
+    src: url("lonely-basket2.ttf");
+}
+
+
+ @font-face{
+     font-family: 'angilla-tattoo-personal-use11';
+     src: url("fonts/angilla-tattoo-personal-use11.ttf");
+ }
+
+h{
+    font-family: 'teddy_bear', sans-serif;
+    font-size: 50px;
+    text-aling: center;
+    marging: 30;
+    padding: 20px 0;
+    text-shadow: 2px 2px 2px white;
+   }
+
+h1{
+    font-family: 'angilla-tattoo-personal-use11', sans-serif;
+    font-size: 25px;
+    text-aling: center;
+    marging: 0;
+    padding: 20px 0;
+    text-shadow: 2px 2px 2px white;
+    color: FFBB33;
+}
+   
+
+h2{
+    font-family: 'lonely-basket2', sans-serif;
+    font-size: 40px;
+    text-aling: center;
+    marging: 0;
+    padding: 20px 0;
+    text-shadow: 2px 2px 2px white;
+}	
+
+
+p{
+      font-size: 25px;
+      line-height: 2;
+      letter-spacing: 2;
+      color: #800000;
+      }
+li{
+      font-size: 20px;
+      line-height: 2;
+      letter-spacing: 2;
+      color: #800080;
+      }
+body{
+     width: 600px;
+     margin: 0 auto:
+     background-color: #FFE485;
+     padding: 0 20px 20px 20px;
+     border: 2px solid white;
+     }
+img{
+     width: 1000px;
+     border: 3px solid #00FFFF;
+}
+.набережная{
+     width 1500;
+     border: 4mm ridge rgba(211, 220, 50, .6);
+     margin 0px 0px 0px 30px;
+}
+.лестница{
+     width 1000;
+     border: 4mm ridge rgba(211, 220, 500, .20);
+     margin 0px 0px 0px 30px;
+}
+.Алфераки{
+    width 2000;
+         border: 4mm ridge rgba(511, 720, 100, .50);
+         margin 0px 0px 0px 100px;
+}
+.причины{
+    color: red;
+}
+
+a{
+    color: red;
+}
+a:hover{
+color: blue;
+}
