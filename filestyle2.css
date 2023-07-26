@@ -19,7 +19,7 @@ html{
      src: url("fonts/angilla-tattoo-personal-use11.ttf");
  }
 
-h{
+h1{
     font-family: 'teddy_bear', sans-serif;
     font-size: 50px;
     text-aling: center;
@@ -28,7 +28,7 @@ h{
     text-shadow: 2px 2px 2px white;
    }
 
-h1{
+h2{
     font-family: 'angilla-tattoo-personal-use11', sans-serif;
     font-size: 25px;
     text-aling: center;
@@ -39,7 +39,7 @@ h1{
 }
    
 
-h2{
+h3{
     font-family: 'lonely-basket2', sans-serif;
     font-size: 40px;
     text-aling: center;
